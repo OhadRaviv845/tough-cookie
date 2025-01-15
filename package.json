@@ -74,6 +74,6 @@
   "dependencies": {
     "psl": "^1.1.28",
     "punycode": "^2.1.1",
-    "tough-cookie": "file:tough-cookie-2.5.0-PATCHED.tgz"
+    "tough-cookie": "^2.5.0"
   }
 }
